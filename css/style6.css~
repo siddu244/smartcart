@@ -1,0 +1,17 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+	background-color:#F5F5F5;
+}
+
+.headermenu-name2 {
+  float: left;
+  color: rgb(255, 119, 0);
+  height: 50px;
+  margin-left: 45%;
+  margin-top: 1%;
+  font-size: 30px;
+  line-height: 20px;
+}

@@ -1,0 +1,260 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+
+.bigbox {
+	float: left;
+	width: 100%;
+	height: 950px;
+	background: #fff;
+	background-color: #F5F5F5/*rgb(255, 255, 255)*/;
+}
+.bigbox2 {
+	float: left;
+	width: 100%;
+	height: 600px;
+	background: #fff;
+	background-color: #F5F5F5/*rgb(255, 255, 255)*/;
+}
+
+.two-box {
+	float: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 2%;
+	width: 60%;
+	height: 50px;
+	background: #fff;
+	background-color: #F5F5F5;
+}
+
+.two-box2 {
+	float: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 2%;
+	width: 60%;
+	height: 50px;
+	background: #fff;
+	background-color: white;
+}
+.two-one-box {
+	float: left;
+	width: 33.3333%;
+	height: 50px;
+	background: #fff;
+	background-color: #F5F5F5;	
+}
+
+.two-one-box2 {
+	float: left;
+	width: 25%;
+	height: 50px;
+	background: #fff;
+	background-color: #F5F5F5;	
+}
+
+.two-one-box3 {
+	float: left;
+	width: 50%;
+	height: 50px;
+	background: #fff;
+	background-color: #F5F5F5;	
+}
+
+.two-one-box-text {
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	padding-bottom: 10px;
+	color: rgb(255, 119, 1);
+	width: 100%;
+	border-bottom: 1px solid rgb(255, 119, 0);
+}
+
+.two-one-box-text2 {
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	padding-bottom: 10px;
+	color: #333;
+	width: 100%;
+	border-bottom: 1px solid #444;
+}
+.border-two {
+	border-bottom: 1px solid rgb(255, 119, 0);
+}
+.whitebox {
+	float: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 1%;
+	margin-bottom: 5%;
+	width: 60%;
+	height: 700px;
+	background: #fff;
+	background-color: white;
+
+}
+.whitebox2 {
+	float: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	width: 60%;
+	height: 350px;
+	background: #fff;
+	background-color: white;
+
+}
+
+.whitebox3 {
+	float: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	width: 60%;
+	height: 400px;
+	background: #fff;
+	background-color: white;
+
+}
+
+.add-title {
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #2f3742;
+	border-bottom: 1px solid #e7e7e7;
+	width: 100%;
+}
+
+.title-box-total {
+	float: left;
+	width: 100%;
+	height: 60px;
+}
+.name-box {
+	float: left;
+	width: 30%;
+	height: 60px;
+	margin-top: 10px;
+	margin-left: 20px;
+
+}
+
+.button-box {
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	width: 50%;
+	height: 30px;
+	color: #333;
+	font-size: 15px;
+	color: #444;
+	border-radius: 2px;
+	padding: 3px 3px 3px 3px;
+}
+.button-box2 {
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	width: 50%;
+	height: 30px;
+	color: #333;
+	font-size: 15px;
+	color: #444;
+	border-radius: 4px;
+	padding: 3px 3px 3px 3px;
+}
+
+.detail-product {
+	float: right;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 17px;
+	color: #333;
+}
+
+
+.table-details {
+float: left;
+width: 65%;
+margin-left: 34%;
+margin-top: 0%;
+background: #fff;
+background-color: rgb(255, 255, 255);
+}
+
+.fixed-coloumn {
+float: left;
+width:30%;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+font-size: 15px;
+color: #666;
+background-color: #f5f5f5;
+border-top: 1px dotted #ccc;
+}
+.variable-coloumn {
+float: left;
+width:50%;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+font-size: 15px;
+color: #333;
+border-top: 1px dotted #ccc;
+border-right: 1px dotted #ccc;
+}
+.variable-coloumn2 {
+float: left;
+width:50%;
+border-bottom: 1px dotted #ccc;
+}
+
+
+.checkbox {
+	float: left;
+	margin-top: -2%;
+	margin-left: 25%;
+	width: 30px;
+	height: 30px;
+	background-color: white;
+}
+
+.final-text {
+	float: left;
+	margin-top: -1.5%;
+	margin-left: 1%;
+	font-size: 18px;
+	color: #444;
+}
+
+.final-button {
+	float: right;
+	margin-top: 1%;
+	margin-right: 15%;
+	background-color: rgb(255, 119, 0);
+	border-radius: 6px;
+	width: 150px;
+	height: 50px;
+	font-size: 25px;
+	color: white;
+
+}
+
+.account {
+	float: left;
+	font-size: 18px;
+	margin-left: 75px;
+}

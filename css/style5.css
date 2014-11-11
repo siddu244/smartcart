@@ -1,0 +1,168 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+
+.display_image {
+	float: left;
+	margin-left: 17%;
+}
+
+.display_message {
+	float: left;
+	font-size: 20px;
+	margin-left: 10px;
+	color: #090;
+}
+
+
+.cart_box {
+	float: left;
+	background: #fff;
+	background-color: #F5F5F5;
+	border-radius: 2px;
+	width: 70%;
+	height: 100px;
+	margin-left: 15%;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	padding-right: 20px;
+
+}
+
+.small-box {
+	float: left;
+	height: 69px;
+	width: 50%;
+
+}
+
+.small-box2 {
+	float: left;
+	height: 69px;
+	width: 50%;
+
+}
+.order-subtotal {
+	float: left;
+	font-size: 20px;
+	color: #444;
+	padding-bottom: 7px;
+	padding-right: 10px;
+}
+.amount {
+	float: left;
+	font-size: 20px;
+	color: #B12704;
+	padding-bottom: 7px;
+	padding-right: 10px;	
+}
+.amount2 {
+	float: left;
+	font-size: 20px;
+	color: #B12704;
+	padding-bottom: 7px;
+	padding-right: 148px;	
+}
+
+.amount3 {
+	float: left;
+	font-size: 20px;
+	color: red;
+	padding-top: 5px;
+	padding-bottom: 7px;
+	padding-right: 10px;
+	padding-left: 50px;	
+}
+
+.amount4 {
+	float: left;
+	font-size: 17px;
+	color: blue;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-right: 10px;
+	padding-left: 0px;	
+}
+
+.final-button2 {
+	float: right;
+	margin-top: 22px;
+	background-color: #F0C14B;
+	border-radius: 6px;
+	width: 70%;
+	height: 40px;
+	font-size: 22px;
+	color: #333;
+	border-color: #CBA957 #BF942A #AA8326;
+	box-shadow: 0px 1px 0px;
+}
+
+.small-box3 {
+	float: left;
+	background: #fff;
+	border-radius: 2px;
+	width: 70%;
+	height: 150px;
+	margin-left: 15%;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-bottom: 1px solid #e7e7e7;
+
+}
+
+.small-box4 {
+	float: left;
+	height: 119px;
+	width: 30%;
+}
+
+.small-box5 {
+	float: left;
+	height: 119px;
+	width: 50%;
+	border-left: 1px dotted #e7e7e7;
+}
+
+.img-title2 {
+float:left;
+margin-left: 5%;
+color: #2f3742;
+font-size: 20px;
+padding-bottom: 3px;
+}
+
+.sponsorer-name {
+float:left;
+margin-left: 6%;
+color: #0066c0;
+font-size: 15px;
+transform:lowercase;
+width: 85%;
+padding-top: 4px;
+}
+.sponsorer-name-color {
+float:left;
+margin-left: 6%;
+font-size: 15px;
+color:#b12704;
+transform:lowercase;
+width: 85%;
+padding-top: 4px;
+}
+
+.final-button3 {
+	float: right;
+	background-color: #E7E9EC;
+	margin-top: 22px;
+	box-shadow: 0px 1px 0px;
+	border-radius: 6px;
+	width: 50%;
+	height: 30px;
+	font-size: 18px;
+	color: #111;
+}

@@ -1,0 +1,10 @@
+<style type="text/css">
+a.yellowLink { color:#ff0; }
+a.greenLink { color:#0f0; }
+a.redBlueLink { color:#f00; }
+a.redBlueLink:hover { color:#00f; }
+</style>
+
+<a href="http://www.google.com/" class="yellowLink">I’m yellow</a>
+<a href="http://www.google.com/" class="greenLink">I’m green</a>
+<a href="http://www.google.com/" class="redBlueLink">I’m red and blue on hover</a

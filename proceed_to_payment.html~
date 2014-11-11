@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+	<title>SMARTKART</title>
+<!--<link rel="stylesheet" type="text/css" href="slick/slick.css">-->
+<link rel="stylesheet" type="text/css" href="./css/bootstrap_sub.css"/> 
+<link rel="stylesheet" type="text/css" href="./css/slick.css"/>
+<link rel="stylesheet" type="text/css" href="./css/style2.css"/>
+<link rel="stylesheet" type="text/css" href="css/style1.css">
+<link rel="stylesheet" type="text/css" href="./css/style3.css"/>
+<link rel="stylesheet" type="text/css" href="./css/style4.css"/>
+<link rel="stylesheet" type="text/css" href="./css/style5.css"/>
+<link rel="stylesheet" type="text/css" href="./css/style6.css"/>
+	
+</head>
+<body>
+	<em><a class="headermenu-name2 headermenu-color"  style="float:left;" >SmartCart</a></div></em>
+
+<div class="navi"></div>
+</body>
+</html>
